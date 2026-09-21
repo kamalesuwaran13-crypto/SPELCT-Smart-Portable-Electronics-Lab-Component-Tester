@@ -156,3 +156,16 @@ SPELCT is being developed as a **low-voltage educational electronics prototype**
 **KAMALESUWARAN V**  
 Electronics and Communication Engineering (ECE)  
 Electronics & Hardware Product Development Engineer Internship
+
+
+---
+
+## Week 2 – Electronic Schematic Design and Simulation Planning
+
+Week 2 develops the preliminary electronic architecture and simulation strategy for SPELCT. It covers the protected test interface, analog front end, ESP32-S3 controller, power management, display/user interface, SPICE simulation test cases, signal-integrity considerations, design risks, and refinement process.
+
+➡️ **[Open Week 2 Documentation](Week-2/README.md)**
+
+**Current internship progress:**  
+- ✅ Week 1 – Product Conceptualization and Requirement Analysis  
+- ✅ Week 2 – Electronic Schematic Design and Simulation Planning
